@@ -6,4 +6,4 @@ Sunny
 
 ## Tomorrow
 
-Snow
+Snow and wind
